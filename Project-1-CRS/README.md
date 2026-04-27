@@ -1,5 +1,6 @@
 # Project 1: Geospatial Data Cleaning & CRS Correction
 **Data Source:** [Natural Earth](https://www.naturalearthdata.com/)
+This dataset provides global country boundaries commonly used for cartography and GIS analysis.
 
 ## Objective
 This project demonstrates how to clean geospatial data and correct coordinate reference systems (CRS) using QGIS.
