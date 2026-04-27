@@ -40,7 +40,7 @@ Initial global country boundaries loaded into QGIS.
 
 Visualization of invalid geometries before cleaning (distorted polygons).
 
-![Geometry Issues](Screenshot 2.png)
+![Geometry Issues](Screenshot%202.png)
 
 ### 3. Final Output – Germany
 
