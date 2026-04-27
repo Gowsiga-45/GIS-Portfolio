@@ -1,8 +1,17 @@
 # Project 1: Geospatial Data Cleaning & CRS Correction
+**Data Source:** [Natural Earth](https://www.naturalearthdata.com/)
 
 ## Objective
 This project demonstrates how to clean geospatial data and correct coordinate reference systems (CRS) using QGIS.
 
+## 🌐 Data Source
+
+The dataset used in this project is from [Natural Earth](https://www.naturalearthdata.com/downloads/10m-cultural-vectors/).
+
+- Dataset: Admin 0 – Countries  
+- Scale: 1:10m  
+- Format: Shapefile (.shp)
+  
 ## Input Dataset Information
 
 | Attribute        | Details                          |
