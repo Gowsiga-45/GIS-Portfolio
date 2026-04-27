@@ -14,7 +14,12 @@ This project demonstrates how to clean geospatial data and correct coordinate re
 - Performed topology validation
 
 ## 📸 Output
-(Screenshots will be added after completing the project)
+
+### Original Data
+![Original](images/original.png)
+
+### CRS Fixed Data
+![CRS Fixed](images/crs_fixed.png)
 
 ## 📌 Result
 Clean and consistent geospatial data prepared for analysis.
