@@ -3,6 +3,16 @@
 ## 🎯 Objective
 This project demonstrates how to clean geospatial data and correct coordinate reference systems (CRS) using QGIS.
 
+## 📥 Input Data
+
+| Attribute        | Details                          |
+|-----------------|----------------------------------|
+| Source          | Natural Earth                    |
+| Dataset         | Admin 0 – Countries              |
+| Format          | Shapefile (.shp)                 |
+| CRS             | EPSG:4326 (WGS84)                |
+| Data Type       | Polygon                          |
+
 ## 🛠 Tools Used
 - QGIS
 
