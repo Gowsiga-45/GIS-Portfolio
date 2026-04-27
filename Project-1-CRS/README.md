@@ -16,15 +16,6 @@ This project demonstrates how to clean geospatial data and correct coordinate re
 ## 🛠 Tools Used
 - QGIS
 
-## 📥 Input Data
-
-- Source: Natural Earth Dataset
-- Dataset: Admin 0 – Countries
-- Format: Shapefile (.shp)
-- CRS: EPSG:4326 (WGS84)
-
-The dataset contains global country boundaries used for demonstrating CRS correction and data cleaning workflows.
-
 ## 📂 Tasks Performed
 - Loaded spatial datasets
 - Checked CRS of layers
