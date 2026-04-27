@@ -32,6 +32,7 @@ This project demonstrates how to clean geospatial data and correct coordinate re
 ### 1. Raw Dataset
 
 Initial global country boundaries loaded into QGIS.
+
 [![Raw Dataset](Screenshot 1.png)](Screenshot 1.png)
 
 ![Raw Dataset](Screenshot 1.png)
