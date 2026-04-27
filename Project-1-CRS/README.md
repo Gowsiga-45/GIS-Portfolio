@@ -46,7 +46,7 @@ Visualization of invalid geometries before cleaning (distorted polygons).
 
 Extracted Germany polygon after cleaning and processing.
 
-![Germany Polygon](Screenshot 3.png)
+![Germany Polygon](Screenshot%203.png)
 
 ### 4. Area Calculation
 
@@ -54,7 +54,7 @@ Germany polygon with calculated area displayed.
 
 **Germany Area: 357,674 km²**
 
-![Area Calculation](Screenshot 4.png)
+![Area Calculation](Screenshot%204.png)
 
 ## Output Summary
 
