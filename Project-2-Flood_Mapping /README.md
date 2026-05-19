@@ -21,6 +21,15 @@ The study area is located in Germany during the July 2021 flood event.
 
 The flood event caused severe damage in western Germany due to heavy rainfall and river overflow.
 
+## Germany Boundary 
+
+```
+Map.setCenter(10.5, 51.2, 6);
+
+var germany = ee.FeatureCollection("FAO/GAUL/2015/level0")
+  .filter(ee.Filter.eq('ADM0_NAME', 'Germany'));
+```
+
 ---
 
 # Dataset Used
