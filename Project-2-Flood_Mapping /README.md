@@ -102,7 +102,7 @@ var flood_clean = flood.updateMask(
 
 ## Before Flood Image
 
-(Add Screenshot Here)
+![Before_Flood](Before_Flood.png)
 
 ---
 
