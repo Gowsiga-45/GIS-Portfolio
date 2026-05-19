@@ -58,8 +58,11 @@ var s1 = ee.ImageCollection('COPERNICUS/S1_GRD');
 
 ```
 var before = s1
+  .filterBounds(germany)
   .filterDate('2021-06-13', '2021-07-13')
-  .median();
+  .select('VV')
+  .median()
+  .clip(germany);
 ```
 
 ### After Flood
